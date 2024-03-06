@@ -4,7 +4,7 @@ import random
 periodselect=input("What period? Respond with just the number.")
 #Replace class variables with period number
 #Represents kids in a  class
-P1=["Joseph", "Ezra", "RJ", "Vikram", "Landon", "Ishaan", "Charlie", "Luke H", "Ava", "Peyton", "Luke L", "Bence", "Siya", "Ari Padmanabhan", "Kosta Patel", "Liam Probst", "Cameron Scott", "Rehan Shah", "Emily Shi", "Ahrian Vemuri", "Olivia Yu"]
+P1=[]
 P2=["hi"]
 #Creates a second list so we can remove names from the list and still have the original list intact
 P12=P1
